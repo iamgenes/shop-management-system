@@ -1,4 +1,4 @@
-#Web shop accounting System. (College Certificate Project).
+# Web shop accounting System. (College Certificate Project).
 
 
 # Requirements
